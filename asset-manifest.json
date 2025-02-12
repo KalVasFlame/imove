@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imove/static/css/main.e6c13ad2.css",
+    "main.js": "/imove/static/js/main.d04f39de.js",
+    "index.html": "/imove/index.html",
+    "main.e6c13ad2.css.map": "/imove/static/css/main.e6c13ad2.css.map",
+    "main.d04f39de.js.map": "/imove/static/js/main.d04f39de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d04f39de.js"
+  ]
+}
