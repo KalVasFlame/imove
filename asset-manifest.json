@@ -1,14 +1,17 @@
 {
   "files": {
     "main.css": "/imove/static/css/main.6c604c70.css",
-    "main.js": "/imove/static/js/main.a1b6b6a4.js",
+    "main.js": "/imove/static/js/main.c8affad9.js",
     "static/media/yo.gif": "/imove/static/media/yo.6d90d5efd01dffd9de40.gif",
+    "static/media/bicycle.jpg": "/imove/static/media/bicycle.941cf459d5a03179fb2d.jpg",
+    "static/media/active-sports.jpg": "/imove/static/media/active-sports.035230065c691f32280f.jpg",
+    "static/media/plane.avif": "/imove/static/media/plane.72d3b8fe59f53d0abe68.avif",
     "index.html": "/imove/index.html",
     "main.6c604c70.css.map": "/imove/static/css/main.6c604c70.css.map",
-    "main.a1b6b6a4.js.map": "/imove/static/js/main.a1b6b6a4.js.map"
+    "main.c8affad9.js.map": "/imove/static/js/main.c8affad9.js.map"
   },
   "entrypoints": [
     "static/css/main.6c604c70.css",
-    "static/js/main.a1b6b6a4.js"
+    "static/js/main.c8affad9.js"
   ]
 }
